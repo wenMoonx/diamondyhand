@@ -5,7 +5,7 @@
 - Vault, Lottery, Farm, Trading Contracts.
 - PancakeSwap, UniswapV2 & V3, PantherSwap Chainlink.
 - Token Bridge, Block Explorer.
-- Smart contracts.
+- Smart contracts and web3 game.
 - Defi Protocol(Tokemak, FATExDAO).
 
 ### Connect with me:
@@ -64,13 +64,13 @@
     </tr>  
 </table>
 
-- NFT Marketplaces || Game
+- NFT Marketplaces 
 <table>
     <thead align="center">
         <tr>
             <td>LunaChow NFT</td>
             <td>PixelPimp Marketplace</td>
-            <td>Market Of Zion</td>            
+            <td>Mortal Kombat</td>            
             <td>Market Of Zion</td>            
         </tr>
     </thead>
@@ -86,8 +86,8 @@
             </a>
         </td>        
         <td>
-            <a href="https://nft.pixelpimp.io/">
-                <img src="https://github.com/diamondyhand/diamondyhand/blob/master/images/pixelpimp.jpg?raw=true" width="300">
+            <a href="#">
+                <img src="https://github.com/diamondyhand/diamondyhand/blob/master/images/mk.png?raw=true" width="300">
             </a>
         </td> 
         <td>
