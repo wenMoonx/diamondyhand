@@ -1,4 +1,4 @@
-### Hi, I'm 🥇[DiamondaryHand](https://t.me/bin_0316/)🥇, I am a Blockchain & Web3 Developer.
+### Hi, I'm 🥇[DiamondaryHand](https://t.me/bin_0316/)🥇, I am a Blockchain & Web3 Game Developer.
 
 #### I have good experience in 
 - NFT (dynamic, marketplace, staking, landplot).
