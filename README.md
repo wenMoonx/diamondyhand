@@ -2,7 +2,7 @@
 
 #### I have good experience in 
 - NFT (dynamic, marketplace, staking, landplot).
-- Vault, Lottery, Farm, Trading Contracts.
+- Vault, Lottery, Farm, Trading Contracts, Rust.
 - PancakeSwap, UniswapV2 & V3, PantherSwap Chainlink.
 - Token Bridge, Block Explorer.
 - Smart contracts and web3 game.
