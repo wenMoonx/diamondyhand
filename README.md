@@ -69,21 +69,21 @@
     <thead align="center">
         <tr>
             <td>LunaChow NFT</td>
-            <td>PixelPimp Marketplace</td>
+            <td>Tamadoge</td>
             <td>Mortal Kombat</td>            
             <td>Market Of Zion</td>            
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://nft.pixelpimp.io/">
-                <img src="https://github.com/diamondyhand/diamondyhand/blob/master/images/pixelpimp.jpg?raw=true" width="300">
-            </a>
-        </td> 
-        <td>
             <a href="https://lunachownft.com/">
                 <img src="https://github.com/diamondyhand/diamondyhand/blob/master/images/lunachow.jpg?raw=true" width="300">
             </a>
+        </td> 
+        <td>
+            <a href="https://tamadoge.io/">
+                <img src="https://github.com/diamondyhand/diamondyhand/blob/master/images/tamadoge.jpg?raw=true" width="300">
+            </a>            
         </td>        
         <td>
             <a href="#">
