@@ -11,6 +11,7 @@
 ### Connect with me:
 
 - 📧 Email : masterdevv278@gmail.com
+- 📧 Telegram : https://t.me/smartdevx
 
 ### **_Skills_**
 <table>
